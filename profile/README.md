@@ -71,7 +71,7 @@ Explore them under the **Repositories** tab above.
 
 ## 🌐 Useful Links
 
-- 🌼 **Main Website:** Coming soon  
+- 🌼 **Main Website:** Coming soon([Link will be](https://planter-flower-team.github.io/Planter-Flower-Website/))  
 - 📘 **Documentation:** Coming soon  
 - 🧩 **Game Repository:** Coming soon  
 
