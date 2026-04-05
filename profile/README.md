@@ -3,6 +3,11 @@
 Welcome to the official GitHub organization for **Plantar Flower**, a cozy merge‑based plant game built and maintained by our development team.  
 We’re creating a growing universe of plants, coins, trains, and creativity — all inside a friendly browser‑based world.
 
+## Logo
+
+![image_1775388620770](https://github.com/user-attachments/assets/48e23ace-8c5c-45ba-bdec-6a074dd586d1)
+
+
 ---
 
 ## 🌱 About the Project
@@ -71,7 +76,7 @@ Explore them under the **Repositories** tab above.
 
 ## 🌐 Useful Links
 
-- 🌼 **Main Website:** Coming soon([Link will be](https://planter-flower-team.github.io/Planter-Flower-Website/))  
+- 🌼 **Main Website:** https://plantar-flower-team.github.io
 - 📘 **Documentation:** Coming soon  
 - 🧩 **Game Repository:** Coming soon  
 
